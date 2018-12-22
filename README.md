@@ -1,7 +1,8 @@
 # opengl-demo
 Demo for opengl course
 
-Prebuilt stuff fof Microsoft Visual Studio 2017
+Prebuilt stuff for Microsoft Visual Studio 2017
+
 
 Dependencies:
   * opengl32
