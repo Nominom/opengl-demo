@@ -3,8 +3,17 @@ Demo for opengl course
 
 Prebuilt stuff for Microsoft Visual Studio 2017
 
+![Gif of the project](/opengl-demo.gif)
 
-Dependencies:
+### Features
+- Phong lighting
+- Normal mapping
+- Shadow mapping
+- Skybox
+- Skybox reflections
+- Scene loading from files
+
+### Dependencies
   * opengl32
   * glew
   * glfw
